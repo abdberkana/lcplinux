@@ -1,0 +1,1 @@
+/home/dev/dev3april2022/bystep/buildroot/output/build/linux-zero-4.10.y/tools/gpio/../../include/uapi/linux/gpio.h
